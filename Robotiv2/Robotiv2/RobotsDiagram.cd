@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Robotiv2.Robot">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAABAAAAAQAAAAAAAAgAQwAEAAAAEA=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robotiv2.FlyingRobot">
+    <Position X="1.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlyingRobot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Items" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Robotiv2.UnderGroundRobot">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnderGroundRobot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Items" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Robotiv2.WaterRobot">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaterRobot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Items" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Robotiv2.LandRobot">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LandRobot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Items" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Robotiv2.Items">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robotiv2.Weapon">
+    <Position X="7.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robotiv2.Tool">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Robotiv2.IWarrior">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Robotiv2.IWorker">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IWorker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

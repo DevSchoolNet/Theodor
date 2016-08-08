@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RobotiLibrary.Roboti">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="RobotiLibrary.Roboti.Deplasare" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Roboti.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="RobotiLibrary.Roboti.Tip" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Roboti.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAABAAAAgEAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Roboti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotiLibrary.Obiecte">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Obiecte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotiLibrary.Subteran">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAQBAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subteran.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Obiecte" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RobotiLibrary.Inotator">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Inotator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Obiecte" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RobotiLibrary.Terestru">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Terestru.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Obiecte" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RobotiLibrary.Zburator">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>zburator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Obiecte" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RobotiLibrary.Arma" Collapsed="true">
+    <Position X="10" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotiLibrary.Unealta" Collapsed="true">
+    <Position X="4.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Unealta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
